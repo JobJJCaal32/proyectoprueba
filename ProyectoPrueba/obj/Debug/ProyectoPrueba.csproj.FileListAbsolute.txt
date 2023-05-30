@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\carpetas lenguajes\Proyecto_Prueba\ProyectoPrueba\bin\Debug\ProyectoPrueba.exe.config
+C:\Users\User\Desktop\carpetas lenguajes\Proyecto_Prueba\ProyectoPrueba\bin\Debug\ProyectoPrueba.exe
+C:\Users\User\Desktop\carpetas lenguajes\Proyecto_Prueba\ProyectoPrueba\bin\Debug\ProyectoPrueba.pdb
+C:\Users\User\Desktop\carpetas lenguajes\Proyecto_Prueba\ProyectoPrueba\obj\Debug\ProyectoPrueba.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\carpetas lenguajes\Proyecto_Prueba\ProyectoPrueba\obj\Debug\ProyectoPrueba.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\carpetas lenguajes\Proyecto_Prueba\ProyectoPrueba\obj\Debug\ProyectoPrueba.Properties.Resources.resources
+C:\Users\User\Desktop\carpetas lenguajes\Proyecto_Prueba\ProyectoPrueba\obj\Debug\ProyectoPrueba.csproj.GenerateResource.cache
+C:\Users\User\Desktop\carpetas lenguajes\Proyecto_Prueba\ProyectoPrueba\obj\Debug\ProyectoPrueba.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\carpetas lenguajes\Proyecto_Prueba\ProyectoPrueba\obj\Debug\ProyectoPrueba.exe
+C:\Users\User\Desktop\carpetas lenguajes\Proyecto_Prueba\ProyectoPrueba\obj\Debug\ProyectoPrueba.pdb
